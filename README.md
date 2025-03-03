@@ -35,8 +35,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-assistant-website.git
-cd ai-assistant-website
+https://github.com/chetanck03/code-ai.git
 ```
 
 ### 2. Install Dependencies
